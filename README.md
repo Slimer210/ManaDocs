@@ -9,7 +9,7 @@
 
 ## 爲什麽用Markdown?
 
-- 相比起Google Docs、Word等形式，markdown更加容易客制化。貢獻者只需要拷貝這個儲存庫，再使用markdown ide編輯，就可以申請 Pull Request 了；
+- 相比起Google Docs、Word等形式，markdown更加容易客制化。貢獻者只需要拷貝這個儲存庫，再使用markdown ide編輯，就可以貢獻了；
   - Google Docs 限制了可編輯的用戶，即使使用編輯建議，管理員也無法很有效率地更新教學文。
 - 所有markdown都儲存于github的儲存庫，可減少伺服器負載；
 - markdown 的樣式根據網站樣式呈現，貢獻者無需擔心設計方面的問題、衝突；
